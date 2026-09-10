@@ -19,23 +19,35 @@ Software & Game Development (PPLG) Student | Full-Stack Enthusiast
 - 🔭 I’m currently working on web applications like **DashUMKM** and **PPLG-Sync**.
 - 🌱 I’m an 11th-grade student majoring in Pengembangan Perangkat Lunak dan Gim (PPLG) at SMKN 1 Ciomas.
 - 🏃‍♀️ **Hobbies:** When I'm not coding or busy as Penegak Jurnalistik for Ambalan JENSDIKA, I love staying active with running, weight training, and boxing!
-- 💖 **Ultimate Bias:** [CHARLOTTE AUSTIN]
-- 🎶 **Current Favorite Song:** [RISK IT ALL]
+- 🎨 **Creative Interests:** I'm also deeply into digital art, video editing, and design.
+- 💖 **Ultimate Bias:** CHARLOTTE AUSTIN 👑
+- 🎶 **Current Favorite Song:** RISK IT ALL
 
-<!-- Kalo lu mau nampilin widget Spotify Now Playing, lu bisa pakai Vercel Spotify Readme -->
 <p align="left">
   <a href="https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD">
     <img src="https://img.shields.io/badge/Spotify-Dengerin_Lagu_Favorit_Gw-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </p>
 
-## Tech Stack
+## Tech Stack & Tools
 
+### Development & Programming
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
+</p>
+
+### Design & Creative Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=D0I78q6TfL4p&format=png&color=000000" alt="Ibis Paint" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=P8jY60Wd0Z6K&format=png&color=000000" alt="Lightroom" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=80459&format=png&color=000000" alt="Adobe Premiere" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=80450&format=png&color=000000" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=t7U35S35gSgC&format=png&color=000000" alt="CapCut" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=63901&format=png&color=000000" alt="Snapseed" width="40" height="40"/>
 </p>
