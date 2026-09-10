@@ -2,61 +2,66 @@
 <img src="https://raw.githubusercontent.com/desmayanti/desmayanti/main/BANNER%20KEY.png" alt="Keysha Header" width="100%" />
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=desmayanti&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats" width="100%" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=desmayanti&theme=dark&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">Spotify</h3>
-<p align="center">
-<!-- Ganti SPOTIFY_UID_KAMU dengan ID asli kamu -->
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID_KAMU&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID_KAMU&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" alt="Spotify Now Playing" width="100%" />
-</a>
-</p>
-</td>
-</tr>
-</table>
+<h2>Hi 👋, Imma Keysha</h2>
+<p><b>Software & Game Developer</b></p>
+<p><i>Code, Lift, and Risk It All.</i></p>
+<p>Building reliable web systems, exploring game development, and creating clean scalable solutions.</p>
 </div>
 
+<br><br>
+
 <div align="center">
-<table width="100%">
+<h3>🚀 About Me</h3>
+</div>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">About Me</h3>
-<ul>
-<li>💻 I'm currently working on web applications like <strong>DashUMKM</strong> and <strong>PPLG-Sync</strong>.</li>
-<li>🏫 I'm an 11th-grade student majoring in Pengembangan Perangkat Lunak dan Gim (SMKN 1 Ciomas).</li>
-<li>⚡ Hobbies: When I'm not coding, I'm busy as Penegak Jurnalistik for Ambalan JENSDIKA, or doing weight training and boxing!</li>
-<li>💖 Ultimate Bias: CHARLOTTE AUSTIN 👑</li>
-<li>🎧 Current Favorite Song: [RISK IT ALL]</li>
-</ul>
+<td width="70%" valign="top">
+<b>Keysha</b>, Here — an 11th-grade Software Engineering (PPLG) student focused on full-stack web and game development.<br><br>
+I enjoy building production-ready applications like <b>DashUMKM</b> and <b>PPLG-Sync</b> using React and Laravel, continuously improving my understanding of real-world software systems.<br><br>
+Currently, I'm learning Computer Vision with Python (OpenCV/MediaPipe) and 2D game development using Godot Engine. When I'm not coding, I'm sharpening my discipline as Penegak Jurnalistik for Ambalan JENSDIKA, weight training, or boxing! 🥊<br><br>
+My goal is simple: write clean code, build reliable software, and grow into an innovative software engineer who creates systems that last.
 </td>
-<td width="50%" valign="top">
-<h3 align="center">Tech Stack & Tools</h3>
-<h4 align="center">Dev & Tech</h4>
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,react,laravel,python,godot,html,css,tailwind&theme=dark" alt="Dev Tech Stack" />
-</a>
-</p>
-<h4 align="center">Creative Tools</h4>
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=figma,pr,ai,ps,vscode,github&theme=dark" alt="Creative Tools" />
-</a>
-</p>
+<td width="30%" align="center" valign="top">
+<!-- NANTI KALAU FOTONYA UDAH DI-UPLOAD, GANTI TULISAN DI BAWAH SAMA LINK FOTONYA -->
+<img src="LINK_FOTO_ABOUT_ME_LU_DISINI" alt="Keysha Photo" width="100%" style="border-radius: 12px;" />
 </td>
 </tr>
 </table>
+
+<br><br>
+
+<div align="center">
+<h3>🤝 Connect</h3>
+<a href="mailto:email_kamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a>
+<a href="https://instagram.com/username_ig_lu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/desmayanti"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
+</div>
+
+<br><br>
+
+<div align="center">
+<h3>💻 Tech Stack</h3>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,python,opencv,godot,figma,git,vscode,github&amp;theme=dark&amp;perline=7" alt="Tech Stack" />
+</a>
+</div>
+
+<br><br>
+
+<div align="center">
+<h3>📊 GitHub Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=desmayanti&amp;theme=dark&amp;hide_border=true&amp;bg_color=0d0d0d&amp;title_color=ffffff&amp;text_color=9e9e9e&amp;icon_color=ffffff" alt="GitHub Stats" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=desmayanti&amp;theme=dark&amp;background=0d0d0d&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakNum=ffffff&amp;currStreakLabel=9e9e9e&amp;sideNums=ffffff&amp;sideLabels=9e9e9e&amp;hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br><br>
+
+<div align="center">
+<h3>📈 Activity Graph</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=desmayanti&amp;bg_color=0d0d0d&amp;color=ffffff&amp;line=ffffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%" />
 </div>
