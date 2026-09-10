@@ -1,67 +1,65 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animations/Cyber_Red.gif" width="100%" />
-</p>
+<div align="center">
+  <!-- Ganti link gambar di bawah ini dengan link banner merah kamu setelah di-upload ke repo -->
+  <img src="https://via.placeholder.com/1200x300/690000/ffffff?text=UPLOAD+BANNER+KAMU+DI+SINI" alt="Keysha Header" width="100%" />
+</div>
 
-# <h1 align="center">🔴 KEYSHA DESMAYANTTI! 🔴</h1>
+<br>
 
-<p align="center">
-  <strong>Software & Game Development (PPLG) Student | Full-Stack Enthusiast</strong><br>
-  <em>"Always learning new technologies, creating with passion."</em>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        <h3 align="left">GitHub Stats</h3>
+        <p align="left">
+          <img src="https://github-readme-stats.vercel.app/api?username=desmayanti&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats" width="100%" />
+        </p>
+        <p align="left">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=desmayanti&theme=dark&background=000000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" width="100%" />
+        </p>
+      </td>
+      <td width="40%" valign="top">
+        <h3 align="left">Spotify</h3>
+        <!-- Kamu perlu setup Vercel Spotify Now Playing untuk ini, atau pakai Novatorem -->
+        <p align="center">
+          <a href="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID_KAMU&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID_KAMU&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false" alt="Spotify Now Playing" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <a href="https://instagram.com/_ecaaaxline"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:keyshadesmaaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/keysha-desmayanti"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<br>
 
----
-
-## 📈 GitHub Stats & Streak (Red Theme)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=desmayanti&theme=radical&fire=FF0000&ring=FF0000&sideNums=FF0000&currStreakLabel=FF0000" alt="GitHub Streak Merah" />
-</p>
-
----
-
-## 🌹 About Me
-
-- 🔭 I’m currently working on web applications like **DashUMKM** and **PPLG-Sync**.
-- 🌱 I’m an 11th-grade student majoring in Pengembangan Perangkat Lunak dan Gim (PPLG) at SMKN 1 Ciomas.
-- 🏃‍♀️ **Hobbies:** When I'm not coding or busy as Penegak Jurnalistik for Ambalan JENSDIKA, I love staying active with running, weight training, and boxing!
-- 🎨 **Creative Interests:** I'm also deeply into digital art, video editing, and design.
-- 💖 **Ultimate Bias:** CHARLOTTE AUSTIN 👑
-- 🎶 **Current Favorite Song:** RISK IT ALL
-
-<p align="left">
-  <a href="https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD">
-    <img src="https://img.shields.io/badge/Spotify-Dengerin_Lagu_Favorit_Gw-FF0000?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</p>
-
----
-
-## 🛠 Tech Stack & Tools (Cyber Red Edition)
-
-### 💻 Development & Programming
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=FF0000" />
-</p>
-
-### 🎨 Design & Creative Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/Ibis_Paint-0B1C47?style=for-the-badge&logoColor=white&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe&logoColor=white&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe&logoColor=white&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe&logoColor=white&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white&labelColor=FF0000" />
-  <img src="https://img.shields.io/badge/Snapseed-4285F4?style=for-the-badge&logoColor=white&labelColor=FF0000" />
-</p>
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="left">About Me</h3>
+        <ul align="left">
+          <li>💻 I'm currently working on web applications like <strong>DashUMKM</strong> and <strong>PPLG-Sync</strong>.</li>
+          <li>🏫 I'm an 11th-grade student majoring in Pengembangan Perangkat Lunak dan Gim (SMKN 1 Ciomas).</li>
+          <li>⚡ Hobbies: When I'm not coding, I'm busy as Penegak Jurnalistik for Ambalan JENSDIKA, or doing weight training and boxing!</li>
+          <li>💖 Ultimate Bias: CHARLOTTE AUSTIN 👑</li>
+          <li>🎧 Current Favorite Song: [RISK IT ALL]</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="left">Tech Stack & Tools</h3>
+        <h4 align="left">Dev & Tech</h4>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js,react,laravel,python,godot,html,css,tailwind" alt="Dev Tech Stack" />
+          </a>
+        </p>
+        <h4 align="left">Creative Tools</h4>
+        <p align="left">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=figma,pr,ai,ps,vscode,github" alt="Creative Tools" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
