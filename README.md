@@ -33,21 +33,21 @@ Software & Game Development (PPLG) Student | Full-Stack Enthusiast
 
 ### Development & Programming
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
 </p>
 
 ### Design & Creative Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=D0I78q6TfL4p&format=png&color=000000" alt="Ibis Paint" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=P8jY60Wd0Z6K&format=png&color=000000" alt="Lightroom" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=80459&format=png&color=000000" alt="Adobe Premiere" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=80450&format=png&color=000000" alt="Adobe Illustrator" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=t7U35S35gSgC&format=png&color=000000" alt="CapCut" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=63901&format=png&color=000000" alt="Snapseed" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ibis_Paint_X_logo.png/120px-Ibis_Paint_X_logo.png" alt="Ibis Paint" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/capcut/FFFFFF" alt="CapCut" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Snapseed_Icon_2018.svg" alt="Snapseed" width="40" height="40"/>
 </p>
