@@ -1,20 +1,30 @@
-# Hi there, I'm Keysha Desmayantti! 👩‍💻✨
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Animations/Cyber_Red.gif" width="100%" />
+</p>
 
-Software & Game Development (PPLG) Student | Full-Stack Enthusiast
-*Always learning new technologies*
+# <h1 align="center">🔴 KEYSHA DESMAYANTTI! 🔴</h1>
 
 <p align="center">
-  <a href="https://instagram.com/_ecaaaxline"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <strong>Software & Game Development (PPLG) Student | Full-Stack Enthusiast</strong><br>
+  <em>"Always learning new technologies, creating with passion."</em>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/_ecaaaxline"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:keyshadesmaaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/keysha-desmayanti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/keysha-desmayanti"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-## GitHub Stats
+---
+
+## 📈 GitHub Stats & Streak (Red Theme)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=desmayanti&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=desmayanti&theme=radical&fire=FF0000&ring=FF0000&sideNums=FF0000&currStreakLabel=FF0000" alt="GitHub Streak Merah" />
 </p>
 
-## About Me
+---
+
+## 🌹 About Me
 
 - 🔭 I’m currently working on web applications like **DashUMKM** and **PPLG-Sync**.
 - 🌱 I’m an 11th-grade student majoring in Pengembangan Perangkat Lunak dan Gim (PPLG) at SMKN 1 Ciomas.
@@ -25,37 +35,33 @@ Software & Game Development (PPLG) Student | Full-Stack Enthusiast
 
 <p align="left">
   <a href="https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD">
-    <img src="https://img.shields.io/badge/Spotify-Dengerin_Lagu_Favorit_Gw-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-Dengerin_Lagu_Favorit_Gw-FF0000?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </p>
 
-## Tech Stack & Tools
+---
 
-### Development & Programming
+## 🛠 Tech Stack & Tools (Cyber Red Edition)
+
+### 💻 Development & Programming
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=FF0000" />
 </p>
 
-### Design & Creative Tools
+### 🎨 Design & Creative Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ibis_Paint_X_logo.png/120px-Ibis_Paint_X_logo.png" alt="Ibis Paint" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/capcut/FFFFFF" alt="CapCut" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Snapseed_Icon_2018.svg" alt="Snapseed" width="40" height="40"/>
-  <img width="1200" height="1600" alt="WhatsApp Image 2026-09-07 at 5 48 48 PM" src="https://github.com/user-attachments/assets/2b23b7c7-509c-4602-b3df-0a371bc104c5" />
-<img width="736" height="736" alt="image-Photoroom (9)" src="https://github.com/user-attachments/assets/73823441-a9ec-4fee-b1bd-4c1861d75bdc" />
-<img width="617" height="617" alt="image-Photoroom (6)" src="https://github.com/user-attachments/assets/f12dfb6f-3a9e-45cb-81ec-dc34c03e9eb5" />
-<img width="315" height="315" alt="image-Photoroom (8)" src="https://github.com/user-attachments/assets/23124370-45b7-4005-8ebb-f7832a6f3dba" />
-<img width="736" height="736" alt="image-Photoroom (7)" src="https://github.com/user-attachments/assets/157221fc-d558-4b57-9cd2-281aad8b7ecc" />
-<img width="617" height="617" alt="image-Photoroom (6)" src="https://github.com/user-attachments/assets/8067408a-c36a-4235-8259-ec00276d07d2" />
-<img width="736" height="736" alt="image-Photoroom (9)" src="https://github.com/user-attachments/assets/da5c839e-e534-4b1d-88c9-1b87c37a8666" />
-
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/Ibis_Paint-0B1C47?style=for-the-badge&logoColor=white&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe&logoColor=white&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe&logoColor=white&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe&logoColor=white&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white&labelColor=FF0000" />
+  <img src="https://img.shields.io/badge/Snapseed-4285F4?style=for-the-badge&logoColor=white&labelColor=FF0000" />
 </p>
+
+---
